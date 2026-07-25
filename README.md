@@ -1,0 +1,1 @@
+I made a task tracker CLI that helps manage tasks. It has statuses for each task which can be modified by the user. Each task will also have a created and modified time which are stored in the task,JSON file which will also hold previously created tasks. The program will load previous tasks and have "memory" in between sessions.
